@@ -1,0 +1,73 @@
+.container {
+  position: inherit;
+  margin: auto;
+  right: 0;
+  left: 0;
+}
+.bordering{
+  border: 1px solid rgba(0, 0, 0, .5);
+  border-radius: 5px;
+}
+h2 {
+  margin: 10px 50px;
+}
+#search-box {
+  width: 600px;
+  height: 100px;
+}
+.search-bar {
+  width: 400px;
+  height: 35px;
+  margin: 0px 10px;
+}
+#artist-container {
+  width: 500px;
+}
+.artist {
+  width: 500px;
+}
+.artist:hover {
+  background-color: yellow;
+}
+img {
+  width: 100px;
+  border-radius: 5px;
+  margin: 5px;
+}
+.artist-info {
+  float: right;
+  width: 260px;
+}
+button {
+  float: right;
+  width: 100px;
+  
+  border: none;
+  padding: 10px 0px;
+  font-size: 16px;
+  border-radius: 8px;
+}
+.delete {
+  margin: 37px 10px;
+  color: white;
+  background-color: #f44336;
+}
+.add {
+  margin: 0px 20px;
+}
+.input-box {
+  width: 400px;
+  height: 35px;
+  margin: 0px 50px;
+  text-align: center;
+}
+input[type=submit]  {
+  margin: 0px 175px;
+  border: none;
+  padding: 10px 50px;
+  font-size: 16px;
+  border-radius: 8px;
+}
+form {
+  display: none;
+}

@@ -1,0 +1,29 @@
+{
+  "name": "comp4711lab5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lab5.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexandrBratslavskyy/COMP4711Lab5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexandrBratslavskyy/COMP4711Lab5/issues"
+  },
+  "homepage": "https://github.com/AlexandrBratslavskyy/COMP4711Lab5#readme",
+  "dependencies": {
+    "all": "0.0.0",
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "file-system": "^2.2.2",
+    "hbs": "^4.1.0",
+    "html": "^1.0.0",
+    "pg": "^7.18.1"
+  }
+}
