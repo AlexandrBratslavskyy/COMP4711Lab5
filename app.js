@@ -5,7 +5,7 @@ const path = require('path');
 const hbs = require('hbs');
 const bodyParser = require('body-parser');
 
-const port = process.env.PORT || 8888
+const port = process.env.PORT || 3000;
 const app = express();
 
 app.set('view engine', 'html');
